@@ -49,5 +49,11 @@
 
 **Status (14 Nov 2026):** ✅ YouTube Metricool se connected · ✅ GitHub video godown ready · ✅ Test private post schedule hua (23:22)
 
+## Video engine (15 Nov 2026)
+- **HyperFrames** (HTML → MP4, GSAP) + **FFmpeg**: main renderer, cloud mein chal raha hai. Fail hone par purana renderer apne aap chalta hai.
+- **Kokoro**: Hindi awaaz (offline).
+- **Edge-TTS**: cloud mein nahi chal sakta (Microsoft se WebSocket connection proxy allow nahi karta).
+- **Whisper**: cloud mein nahi chal sakta (model download huggingface.co se block hai). Zarurat bhi nahi, kyunki script aur timing hum khud banate hain.
+
 ## Tay karna baaki hai
 - Shorts daalne hain ya nahi
