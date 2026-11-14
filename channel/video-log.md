@@ -1,0 +1,7 @@
+# Video Log
+
+Har video ki ek line. Naya video banne ya post hone par yahan update karna hai.
+
+| Din | Tareekh | Kahani (backlog #) | Format | Lambai | Status | Link |
+|---|---|---|---|---|---|---|
+| 0 | 14 Nov 2026 | खरगोश और कछुआ (#1) — demo | 9:16 | 53 sec | Private test Short, Metricool se 23:22 IST (pipeline test) | https://app.metricool.com/planner/calendar?blogId=8042594&openWithPostUuid=-921768927367312743 |
