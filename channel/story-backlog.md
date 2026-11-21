@@ -14,7 +14,7 @@ Use ho chuki kahani ko `video-log.md` mein likhna hai.
 | 4 | भालू और दो दोस्त | Aesop | Rohan, दोस्त, भालू | सच्चा दोस्त मुसीबत में साथ देता है | ✅ (used Day 4) |
 | 5 | कौआ और लोमड़ी | Aesop | Kalu, Lali | झूठी तारीफ़ से बचो | ✅ (prop: रोटी) (used Day 5) |
 | 6 | बंदर राजा | Jataka | Mintu और बंदर | सच्चा नेता सबकी रक्षा करता है | ✅ (used Day 6) |
-| 7 | हाथी और उसके दोस्त | Folk | Bholu, Chiku, Mintu, Sheru | बड़ा दिल सबसे बड़ी ताक़त है | ✅ |
+| 7 | हाथी और उसके दोस्त | Folk | Bholu, Chiku, Mintu, Sheru | बड़ा दिल सबसे बड़ी ताक़त है | ✅ (used Day 7) |
 | 8 | शेरू का गुस्सा | Original | Sheru, Kachhu | गुस्से में नहीं, शांति से सोचो | ✅ |
 | 9 | झूठी लाली | Original | Lali, दोस्त | झूठ बोलने से भरोसा टूटता है | ✅ |
 | 10 | चिकू को अँधेरे से डर | Original | Chiku, Kachhu (रात) | डर का सामना करो | ✅ |
