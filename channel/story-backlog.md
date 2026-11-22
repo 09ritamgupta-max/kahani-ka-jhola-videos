@@ -15,7 +15,7 @@ Use ho chuki kahani ko `video-log.md` mein likhna hai.
 | 5 | कौआ और लोमड़ी | Aesop | Kalu, Lali | झूठी तारीफ़ से बचो | ✅ (prop: रोटी) (used Day 5) |
 | 6 | बंदर राजा | Jataka | Mintu और बंदर | सच्चा नेता सबकी रक्षा करता है | ✅ (used Day 6) |
 | 7 | हाथी और उसके दोस्त | Folk | Bholu, Chiku, Mintu, Sheru | बड़ा दिल सबसे बड़ी ताक़त है | ✅ (used Day 7) |
-| 8 | शेरू का गुस्सा | Original | Sheru, Kachhu | गुस्से में नहीं, शांति से सोचो | ✅ |
+| 8 | शेरू का गुस्सा | Original | Sheru, Kachhu | गुस्से में नहीं, शांति से सोचो | ✅ (used Day 8) |
 | 9 | झूठी लाली | Original | Lali, दोस्त | झूठ बोलने से भरोसा टूटता है | ✅ |
 | 10 | चिकू को अँधेरे से डर | Original | Chiku, Kachhu (रात) | डर का सामना करो | ✅ |
 | 11 | कछु की जन्मदिन पार्टी | Original | सब | दोस्ती और बाँटना | ✅ (prop: केक) |
