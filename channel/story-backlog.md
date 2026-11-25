@@ -18,7 +18,7 @@ Use ho chuki kahani ko `video-log.md` mein likhna hai.
 | 8 | शेरू का गुस्सा | Original | Sheru, Kachhu | गुस्से में नहीं, शांति से सोचो | ✅ (used Day 8) |
 | 9 | झूठी लाली | Original | Lali, दोस्त | झूठ बोलने से भरोसा टूटता है | ✅ (used Day 9) |
 | 10 | चिकू को अँधेरे से डर | Original | Chiku, Kachhu (रात) | डर का सामना करो | ✅ (used Day 10) |
-| 11 | कछु की जन्मदिन पार्टी | Original | सब | दोस्ती और बाँटना | ✅ (prop: केक) |
+| 11 | कछु की जन्मदिन पार्टी | Original | सब | दोस्ती और बाँटना | ✅ (prop: केक) (used Day 11) |
 | 12 | मिंटू के केले | Original | Mintu, दोस्त | बाँटने से ख़ुशी बढ़ती है | ✅ (prop: केले) |
 | 13 | भोलू ने पार कराई नदी | Original | Bholu, Chiku | मदद करना अच्छा है | ✅ |
 | 14 | आओ पेड़ लगाएँ | Original | Rohan, Pari, Bholu | पेड़ हमारे दोस्त हैं | ✅ |
